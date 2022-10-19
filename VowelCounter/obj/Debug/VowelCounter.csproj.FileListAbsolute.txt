@@ -1,0 +1,10 @@
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\bin\Debug\VowelCounter.exe.config
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\bin\Debug\VowelCounter.exe
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\bin\Debug\VowelCounter.pdb
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\obj\Debug\VowelCounter.csproj.AssemblyReference.cache
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\obj\Debug\VowelCounter.Form1.resources
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\obj\Debug\VowelCounter.Properties.Resources.resources
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\obj\Debug\VowelCounter.csproj.GenerateResource.cache
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\obj\Debug\VowelCounter.csproj.CoreCompileInputs.cache
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\obj\Debug\VowelCounter.exe
+C:\Users\iCAM\source\repos\VowelCounter\VowelCounter\obj\Debug\VowelCounter.pdb
